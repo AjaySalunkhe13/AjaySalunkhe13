@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @AjaySalunkhe13
-- 👀 I’m interested in ...DevOps
-- 🌱 I’m currently learning ...Linux, GitLab, Python, Docker, 
-- 💞️ I’m looking to collaborate on ...DevOps things
+- 👋 Hi, I’m Ajay
+- 👀 I’m interested in ...Cloud & DevOps
+- 🌱 I’m currently learning ...Linux, GitLab, Python, Docker, Kubernetes, Terraform, Grafana
+- 💞️ I’m looking to collaborate on ...DevOps Projects!
 - 📫 How to reach me ...ajaysalunkhe1310@gmail.com
 - 😄 Pronouns: ...Ajay
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I can automate anything—except making coffee (still working on that script! ☕).
 
-<!---
-AjaySalunkhe13/AjaySalunkhe13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Skills & Tools
+Cloud: AWS (EC2, S3, IAM, RDS, Lambda)
+Containers & Orchestration: Docker, Kubernetes
+Automation & IaC: Terraform, Ansible, Shell Scripting
+CI/CD: Jenkins, GitHub Actions
+Version Control: Git, GitHub
+Monitoring & Logging: Prometheus, Grafana
+📌 Open to collaboration on cloud, automation, and DevOps projects!
+
+
